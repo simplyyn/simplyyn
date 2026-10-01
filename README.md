@@ -1,6 +1,6 @@
 # Me chamo Caio Peccinato!
 
-Sou Estudante de **Engenharia de Software** na PUC-Campinas (5º semestre), com foco em
+Sou Estudante de **Engenharia de Software** na PUC-Campinas (6º semestre), com foco em
 desenvolvimento back-end, inteligência artificial e banco de dados.
 
 ---
